@@ -7,6 +7,9 @@ module.exports = {
   ],
   theme: {
     extend: {},
+    fontFamily: {
+      globalFont: ["Poppins", "sans-serif"],
+    }
   },
   plugins: [],
 }
