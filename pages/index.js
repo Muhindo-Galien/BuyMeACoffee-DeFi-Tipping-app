@@ -372,7 +372,7 @@ if(ethereum){
            <h2 className="font-bold text-2xl">Buy Galien Coffee</h2>
             <img className = "w-20" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ethereum-eth-icon.png"/>
            <button className="bg-purple-700 font-semiblod text-lg px-3 p-2 text-white rounded-2xl" type="button" onClick={connectWallet}>
-              connect you wallet
+              connect your wallet
            </button>
           
          </div>
