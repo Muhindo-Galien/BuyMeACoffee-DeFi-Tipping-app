@@ -1,4 +1,3 @@
-// "0x1B152Bdb2C334AA296124c6d295C82524b01166A";
 import abi from '../utils/BuyMeACoffee.json';
 import { ethers } from "ethers";
 import Head from 'next/head'
